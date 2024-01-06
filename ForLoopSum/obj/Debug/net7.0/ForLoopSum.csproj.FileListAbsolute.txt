@@ -1,0 +1,15 @@
+/Users/carolinesund/Projects/ForLoopSum/ForLoopSum/bin/Debug/net7.0/ForLoopSum
+/Users/carolinesund/Projects/ForLoopSum/ForLoopSum/bin/Debug/net7.0/ForLoopSum.deps.json
+/Users/carolinesund/Projects/ForLoopSum/ForLoopSum/bin/Debug/net7.0/ForLoopSum.runtimeconfig.json
+/Users/carolinesund/Projects/ForLoopSum/ForLoopSum/bin/Debug/net7.0/ForLoopSum.dll
+/Users/carolinesund/Projects/ForLoopSum/ForLoopSum/bin/Debug/net7.0/ForLoopSum.pdb
+/Users/carolinesund/Projects/ForLoopSum/ForLoopSum/obj/Debug/net7.0/ForLoopSum.csproj.AssemblyReference.cache
+/Users/carolinesund/Projects/ForLoopSum/ForLoopSum/obj/Debug/net7.0/ForLoopSum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carolinesund/Projects/ForLoopSum/ForLoopSum/obj/Debug/net7.0/ForLoopSum.AssemblyInfoInputs.cache
+/Users/carolinesund/Projects/ForLoopSum/ForLoopSum/obj/Debug/net7.0/ForLoopSum.AssemblyInfo.cs
+/Users/carolinesund/Projects/ForLoopSum/ForLoopSum/obj/Debug/net7.0/ForLoopSum.csproj.CoreCompileInputs.cache
+/Users/carolinesund/Projects/ForLoopSum/ForLoopSum/obj/Debug/net7.0/ForLoopSum.dll
+/Users/carolinesund/Projects/ForLoopSum/ForLoopSum/obj/Debug/net7.0/refint/ForLoopSum.dll
+/Users/carolinesund/Projects/ForLoopSum/ForLoopSum/obj/Debug/net7.0/ForLoopSum.pdb
+/Users/carolinesund/Projects/ForLoopSum/ForLoopSum/obj/Debug/net7.0/ForLoopSum.genruntimeconfig.cache
+/Users/carolinesund/Projects/ForLoopSum/ForLoopSum/obj/Debug/net7.0/ref/ForLoopSum.dll
